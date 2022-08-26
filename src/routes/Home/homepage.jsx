@@ -68,7 +68,7 @@ const Homepage = () => {
       <div className="activity-block">
         <div className="activity-header">
           <div className="activity-header-right">
-            <IconSvg icon={"Icon_awesome-location-arrow"} size={24} />
+            <IconSvg icon={"Icon_awesome-location-arrow"} size={15} />
             <div>ACTIVITY</div>
           </div>
           <MdDateRange className="calendarIcon" />
