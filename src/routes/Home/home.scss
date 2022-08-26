@@ -44,7 +44,7 @@
     align-items: flex-start;
     justify-content: flex-end;
     flex-direction: column;
-    height: 40vh;
+    height: 50vh;
     width: 100%;
     border-radius: 5px;
     position: relative;
@@ -80,7 +80,7 @@
     }
     // padding: 4rem 18rem 4rem 2rem;
     background-image: url(../../asset/bgCard.svg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
   }
   .action-cards {
