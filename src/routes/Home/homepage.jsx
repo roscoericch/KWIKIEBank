@@ -43,6 +43,8 @@ const Homepage = () => {
           </div>
           <h4 className="h4-title">Vehicle</h4>
           <h2 className="h2-title">N 300,782</h2>
+          <div className="progress"></div>
+          <div>Matures in 310 days</div>
         </div>
         <div className="action-card action-card2">
           <div className="action-cardTitle">
@@ -105,7 +107,12 @@ const Homepage = () => {
             <div className="activity-amount">N 15,000</div>
           </div>
           <div className="activity activity-4">
-            <div className="activity-icon"></div>
+            <div className="activity-icon">
+              <IconSvg
+                icon={"Icon ionic-ios-arrow-dropdown-circle"}
+                size={24}
+              />
+            </div>
             <div className="activity-text">Debit YURI8372920</div>
             <div className="activity-amount">N 15,000</div>
           </div>

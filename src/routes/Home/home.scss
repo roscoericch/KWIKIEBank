@@ -44,7 +44,7 @@
     align-items: flex-start;
     justify-content: flex-end;
     flex-direction: column;
-    height: 50vh;
+    height: 40vh;
     width: 100%;
     border-radius: 5px;
     position: relative;
@@ -80,7 +80,7 @@
     }
     // padding: 4rem 18rem 4rem 2rem;
     background-image: url(../../asset/bgCard.svg);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
   }
   .action-cards {
@@ -103,17 +103,31 @@
         color: rgba(53, 49, 48, 0.6);
         font-weight: 400;
         font-size: 1.1rem;
+        margin-bottom: 1rem;
       }
       .h2-title {
         font-size: 2rem;
         font-weight: 600;
         color: rgba(62, 64, 149, 1);
+        margin-bottom: 1rem;
+      }
+      .progress {
+        // padding: 0.1rem;
+        height: 0.5rem;
+        width: 90%;
+        background-image: linear-gradient(
+          to right,
+          rgb(79, 225, 21) 0.1%,
+          rgba(191, 191, 191, 1) 70%
+        );
+        border-radius: 10px;
       }
       &Title {
         .bg-icon2 {
           border-radius: 100%;
           padding: 1rem;
           background-color: rgba(62, 64, 149, 1);
+          margin-bottom: 1rem;
         }
       }
     }
@@ -164,6 +178,17 @@
       padding: 0.5rem 1rem;
       border-radius: 10px;
       background-color: rgba(191, 191, 191, 1);
+      &-text {
+        color: #3e4095;
+      }
+      &-amount {
+        color: rgba(0, 175, 239, 1);
+      }
+    }
+    .activity-4 {
+      &-amount {
+        color: crimson;
+      }
     }
   }
 }
