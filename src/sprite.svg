@@ -1,0 +1,63 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 19.5" id="Icon material-notifications">
+    <path id="Icon_material-notifications" d="M14,23.25a2.006,2.006,0,0,0,2-2H12A2,2,0,0,0,14,23.25Zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V5.25a1.5,1.5,0,0,0-3,0v.68C9.63,6.61,8,9.17,8,12.25v5l-2,2v1H22v-1Z" transform="translate(-6 -3.75)" fill="#42d579"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.866 26.866" id="Icon ionic-ios-arrow-dropdown-circle">
+    <path id="Icon_ionic-ios-arrow-dropdown-circle" d="M0,13.433A13.433,13.433,0,1,0,13.433,0,13.431,13.431,0,0,0,0,13.433Zm18.671-2.8a1.251,1.251,0,0,1,1.763,0,1.231,1.231,0,0,1,.362.878,1.253,1.253,0,0,1-.368.885l-6.09,6.071a1.245,1.245,0,0,1-1.718-.039L6.439,12.264A1.247,1.247,0,1,1,8.2,10.5L13.44,15.79Z" transform="translate(26.866 26.866) rotate(180)" fill="#f75c35"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14.001" id="Icon awesome-location-arrow">
+    <path id="Icon_awesome-location-arrow" d="M12.156.1.786,5.344A1.326,1.326,0,0,0,1.311,7.88h4.81v4.81a1.326,1.326,0,0,0,2.536.525L13.9,1.846A1.364,1.364,0,0,0,12.156.1Z" transform="translate(0 0)" fill="#3e4095"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.313 25.5" id="Icon awesome-user">
+    <path id="Icon_awesome-user" d="M11.156,12.75A6.375,6.375,0,1,0,4.781,6.375,6.375,6.375,0,0,0,11.156,12.75Zm4.462,1.594h-.832a8.67,8.67,0,0,1-7.262,0H6.694A6.7,6.7,0,0,0,0,21.038v2.072A2.391,2.391,0,0,0,2.391,25.5H19.922a2.391,2.391,0,0,0,2.391-2.391V21.038A6.7,6.7,0,0,0,15.619,14.344Z" opacity="0.41"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 25.5" id="Icon material-home">
+    <path id="Icon_material-home" d="M15,30V21h6v9h7.5V18H33L18,4.5,3,18H7.5V30Z" transform="translate(-3 -4.5)"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.761 13.59" id="Icon feather-arrow-right">
+    <g id="Icon_feather-arrow-right" transform="translate(1 1.414)" opacity="0.35">
+      <path id="Path_256" d="M7.5,18H18.261" transform="translate(-7.5 -12.619)" fill="none" stroke="#3e4095" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+      <path id="Path_257" d="M18,7.5l5.381,5.381L18,18.261" transform="translate(-12.619 -7.5)" fill="none" stroke="#3e4095" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.635 25.809" id="Group 185">
+    <g id="Group_185" transform="translate(0 0)">
+      <path id="Path_249" d="M51.819,501.914A11.9,11.9,0,1,0,40,490.015,11.86,11.86,0,0,0,51.819,501.914Z" transform="translate(-40 -476.105)" fill="#fff"></path>
+      <path id="Path_250" d="M53.64,500.442a8.628,8.628,0,1,0-8.57-8.629A8.6,8.6,0,0,0,53.64,500.442Z" transform="translate(-41.821 -477.904)" ></path>
+      <path id="Path_251" d="M55.46,498.97a5.357,5.357,0,1,0-5.321-5.357A5.339,5.339,0,0,0,55.46,498.97Z" transform="translate(-43.641 -479.702)" fill="#fff"></path>
+      <path id="Path_252" d="M57.281,497.5a2.087,2.087,0,1,0-2.073-2.087A2.08,2.08,0,0,0,57.281,497.5Z" transform="translate(-45.462 -481.501)" fill="#d3d3e4"></path>
+      <path id="Path_253" d="M74,475.054,71.4,477.665a.554.554,0,0,0-.16.425l.15,2.409,3.055-3.075-.14-2.25A.183.183,0,0,0,74,475.054Z" transform="translate(-51.219 -475)" fill="#fff"></path>
+      <path id="Path_254" d="M76.886,479.211l-2.593,2.611a.545.545,0,0,1-.423.161l-2.392-.151,3.055-3.075,2.235.141A.184.184,0,0,1,76.886,479.211Z" transform="translate(-51.304 -476.332)" fill="#fff"></path>
+      <path id="Path_255" d="M58.225,489.583a.383.383,0,0,1-.273-.114.392.392,0,0,1,0-.551l12.916-13a.384.384,0,0,1,.547,0,.391.391,0,0,1,0,.55l-12.916,13A.383.383,0,0,1,58.225,489.583Z" transform="translate(-46.406 -475.284)" fill="#bfbfbf"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 339 190" id="Group 254">
+    <defs>
+      <linearGradient id="linear-gradient" x1="1.057" y1="0.083" x2="-0.018" y2="1.049" gradientUnits="objectBoundingBox">
+        <stop offset="0" stop-color="#91d8f7"></stop>
+        <stop offset="1" stop-color="#3e4095"></stop>
+      </linearGradient>
+    </defs>
+    <g id="Group_254" transform="translate(-26 -112.942)">
+      <g id="Group_184" transform="translate(26 113)">
+        <rect id="Rectangle_55" width="339" height="190" rx="5" transform="translate(0 -0.058)" fill="url(#linear-gradient)"></rect>
+      </g>
+      <g id="Group_237" transform="translate(131.882 184.055) rotate(-90)">
+        <path id="Path_9" d="M71.055,0,0,62.365l70.913,62" fill="#3e4095" opacity="0.25"></path>
+        <path id="Path_10" d="M71.055,0,0,62.365l70.913,62" transform="translate(0 65.367)" fill="#3e4095" opacity="0.25"></path>
+        <path id="Path_11" d="M71.055,0,0,62.365l70.913,62" transform="translate(0 108.75)" fill="#42d579" opacity="0.25"></path>
+      </g>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.042 25.042" id="Group 201">
+    <g id="Group_201" transform="translate(-244.575 -394.691)" opacity="0.41">
+      <path id="Path_249" d="M52.521,503.158A12.521,12.521,0,1,0,40,490.637,12.521,12.521,0,0,0,52.521,503.158Z" transform="translate(204.575 -83.425)"></path>
+      <path id="Path_250" d="M54.148,501.344a9.079,9.079,0,1,0-9.079-9.079A9.079,9.079,0,0,0,54.148,501.344Z" transform="translate(202.947 -85.053)" fill="#e2e2e2"></path>
+      <path id="Path_251" d="M55.776,499.529a5.637,5.637,0,1,0-5.637-5.637A5.637,5.637,0,0,0,55.776,499.529Z" transform="translate(201.32 -86.681)"></path>
+      <path id="Path_252" d="M57.4,497.715a2.2,2.2,0,1,0-2.2-2.2A2.2,2.2,0,0,0,57.4,497.715Z" transform="translate(199.692 -88.308)" fill="#d3d3e4"></path>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.475 20.808" id="Icon awesome-money-bill">
+    <path id="Icon_awesome-money-bill" d="M38.451,4.5H2.024A1.9,1.9,0,0,0,0,6.234v17.34a1.9,1.9,0,0,0,2.024,1.734H38.451a1.9,1.9,0,0,0,2.024-1.734V6.234A1.9,1.9,0,0,0,38.451,4.5ZM3.036,22.707V19.239a3.791,3.791,0,0,1,4.048,3.468Zm0-12.138V7.1H7.083A3.791,3.791,0,0,1,3.036,10.569Zm17.2,9.537A5.2,5.2,0,1,1,25.3,14.9,5.132,5.132,0,0,1,20.238,20.106Zm17.2,2.6H33.392a3.791,3.791,0,0,1,4.048-3.468Zm0-12.138A3.791,3.791,0,0,1,33.392,7.1h4.048Z" transform="translate(0 -4.5)" fill="#fff"></path>
+  </symbol>
+</svg>
